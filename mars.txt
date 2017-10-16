@@ -3,3 +3,4 @@ Not quite as nice as snickers but better than bountys
 Adding another line
 
 And a third
+Numba 4
